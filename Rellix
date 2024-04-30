@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-if player:IsInGroup(33979084) and game.PlaceId == 3255508650 or game.PlaceId == 11362898741 then
+if game.PlaceId == 3255508650 or game.PlaceId == 11362898741 then
 	
 	local RunService = game:GetService("RunService")
 
